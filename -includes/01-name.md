@@ -1,5 +1,5 @@
 # This is Khin Soe's Blog.
-The Blog is posted by Khin Soe.
+This Blog is posted by Khin Soe.
 ## Welcome from the Blog.
 Hello there, warmly welcome to you.
 ### What is Pathology?
