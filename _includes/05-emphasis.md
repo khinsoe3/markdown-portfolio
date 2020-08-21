@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm especially interested in **Oral Pathology**, emphasized in *Oral Cancer* and *Oral Potentially Malignant Disorders*.
+Next to **Oral Pathology**, my study area is **programming language**, especially in *Git*.
